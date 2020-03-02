@@ -1,0 +1,132 @@
+body{
+    margin:0 auto;
+    font-family: 'Poppins';
+}
+
+.hello{
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.half-width{
+    width: 40%;
+    margin-left:5%;
+    padding-left:2%;
+    float: left;
+}
+
+.half-width img{
+    width:100%;
+    height: auto;
+}
+
+h1{
+    font-size: 50px;
+    color:magenta;
+}
+
+.link-button{
+    background-color:magenta;
+    padding:10px 20px;
+    margin-top: auto;
+    text-decoration: none;
+    border-radius: 5px;
+    color:white;
+    font-weight: bold;
+}
+
+.header-section{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    padding:153px 120px;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    padding:153px 120px;
+
+}
+
+h2{
+    font-size: 40px;
+}
+
+.cv{
+    background-color:magenta;
+    padding:10px 20px;
+    margin-top: auto;
+    text-decoration: none;
+    border-radius: 5px;
+    color:white;
+    font-weight: bold;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.work-heading{
+    text-align: center;
+    font-size: 40px;
+}
+
+.work-list{
+    width: 24%;
+    margin:3%;
+    padding:1%;
+    float: left;
+}
+.work-list img{
+    width:100%;
+}
+.footer-area{
+    background-image: url("images/footer-bg.png");
+    overflow: hidden;
+    padding-top: 200px ;
+    padding-bottom: 250px;
+}
+
+.client-heading{
+    font-size: 40px;
+    text-align: center;
+}
+
+.client-title{
+    font-size: 25px;
+    text-align: center;
+}
+
+.client-rank{
+    font-size: 20px;
+    text-align: center;
+    color:dimgray;
+
+}
+
+.client-words p{
+    text-align: center;
+    color:gray;
+}
+
+.message-section{
+    background-image:linear-gradient(45deg,#E0115F,palevioletred);
+    color:white;
+    text-align: center;
+    text-decoration:none;
+    margin:30px 300px;
+    border-radius: 5px;
+    padding:26px 70px;
+}
+.message-section p{
+    padding-top: 10px;
+    color:white
+}
+.message-section h2{
+    margin-top:5px;
+}
+#footer{
+    text-align: center;
+    color: dimgray;
+}
